@@ -1,2 +1,3 @@
-Personal Website
-Hosted at: camillejanicki.me
+# Personal Website
+
+Hosted on SFU server at : http://www.sfu.ca/~cjanicki/
